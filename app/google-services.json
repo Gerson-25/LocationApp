@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "595877919369",
+    "firebase_url": "https://location-saver-70d47.firebaseio.com",
+    "project_id": "location-saver-70d47",
+    "storage_bucket": "location-saver-70d47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595877919369:android:17b517231306da7b48a458",
+        "android_client_info": {
+          "package_name": "com.example.locationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595877919369-aspo3j8l5797efma7qj94hcjjsu9j3qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi_ZN1BTnKT8QPeVkeJk5Epnv9dl3qfO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595877919369-aspo3j8l5797efma7qj94hcjjsu9j3qu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
