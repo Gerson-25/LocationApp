@@ -79,9 +79,6 @@ class MainActivity : AppCompatActivity() {
                         ).show()
                     }
                     },5000)
-
-                    database = FirebaseDatabase.getInstance()
-                    databaseRef = database.getReference("location")
                 }
         }
     }
